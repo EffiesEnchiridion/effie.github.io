@@ -1,18 +1,18 @@
 # Effie’s Enchiridion
 
-A personal archive of reading notes, research reflections, and bibliographic records.
+A personal archive of bibliographic records and reading notes, with a focus on modern Chinese history, especially the Mao era.
 
 ## About
+
 **Yifei Xu** ʚΐɞ **Effie**
 
-Graduate School of Human and Environmental Studies, Kyoto University
+PhD Student, Graduate School of Human and Environmental Studies, Kyoto University
 
 <img src="doraemon" alt="Doraemon" width="220">
 
 ## Research Interests
-✿ Gender History
 
-✿ History of Education
+✿ Gender History ✿ History of Education ✿ Modern Chinese History ✿ All-China Women’s Federation (ACWF)
 
 ## Entry
 - [Bibliography](./notes/)
