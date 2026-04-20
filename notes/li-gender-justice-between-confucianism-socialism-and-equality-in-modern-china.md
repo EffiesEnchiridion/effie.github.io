@@ -57,6 +57,7 @@ A woman may formally have the right to work, to leave a marriage, or to particip
 一旦历史处境被抹掉，农民就很容易在叙述中变成：落后的人、重男轻女的人、需要国家管理的人；而不是：**被不公平政策首先伤害的人、在极端有限条件下作出生存性判断的人**。
 
 （2）
+
 China’s modernization is not a process in which “more modernity automatically means more equality”
 
 **“more modernity automatically means more equality” 这个前提本身就很可疑**
