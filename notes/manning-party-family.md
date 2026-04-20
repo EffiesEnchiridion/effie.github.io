@@ -130,7 +130,7 @@ dynastic inheritance = 政治资本的代际继承，重点是“谁是谁的后
 
 代表性人物/倾向：Manning 说得最明确的就是 Cai Chang。她虽然受过女校教育、母亲也有女性主义倾向，但最终最鲜明地体现为 Loyal Soldier；基层层面，Hou Qiuyi 在记忆中也更接近这一取向。
 
-在全书中的作用：它帮助 Manning 解释，为什么蔡畅既不是单纯的 feminist，也不是单纯的 maternalist reformer，而是一个把 women-work、家庭和妇女政策重新纳入毛与党的总体路线中的关键人物。也正因为这条线存在，妇联后来才会同时承担“妇女解放”与“服从总体政治目标”这两套要求。
+解释了为什么蔡畅既不是单纯的 feminist，也不是单纯的 maternalist reformer，而是一个把 women-work、家庭和妇女政策重新纳入毛与党的总体路线中的关键人物；以及为什么妇联会同时承担“妇女解放”与“服从总体政治目标”这两套要求。
 
 ## ♥Q&A（with ChatGPT）
 
