@@ -47,7 +47,7 @@ Women’s emergence into local leadership was not an automatic outcome of “lib
 
 *Behind the slogan “women hold up half the sky” lies the fact that women were also expected to clean up when that sky collapsed. They helped the state “leap,” but they also bore much of the labor of salvage.
 
-## concept
+## ♣Concept
 
 1） **party family** = 以亲属关系为基础、又在政党组织与政治斗争中被不断生产出来的“政治性家庭场域” 
 
@@ -136,7 +136,7 @@ dynastic inheritance = 政治资本的代际继承，重点是“谁是谁的后
 
 在全书中的作用：它帮助 Manning 解释，为什么蔡畅既不是单纯的 feminist，也不是单纯的 maternalist reformer，而是一个把 women-work、家庭和妇女政策重新纳入毛与党的总体路线中的关键人物。也正因为这条线存在，妇联后来才会同时承担“妇女解放”与“服从总体政治目标”这两套要求。
 
-## Q&A
+## ♥Q&A
 
 Q：重庆联盟到底说明了什么？是派系之间没那么冲突？还是自由主义和母性主义奇妙共存？
 
