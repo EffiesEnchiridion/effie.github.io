@@ -7,7 +7,7 @@ Yifei Xu (Effie)
 
 Graduate School of Human and Environmental Studies, Kyoto University
 
-<img src="./doraemon.png" alt="Doraemon" width="300">
+![Doraemon](./doraemon)
 
 ## Research Interests
 ✿ Gender History
