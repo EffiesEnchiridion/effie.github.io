@@ -1,5 +1,10 @@
 # Qiusha Ma, ‘Defining Chinese Nongovernmental Organizations’, Voluntas: International Journal of Voluntary and Nonprofit Organizations 13(2) (2002), pp. 113–130.
 
+## ♦My Reflection
+
+文章的核心就是：organizational autonomy should not be treated as the sole, or even the most important, criterion for defining Chinese NGOs.  
+共享了一个我非常认可的立场：不要先问某个中国组织“是不是不够像西方所说的现代主体”，而要先问：它是在怎样的历史关系中被生产出来的，又在其中做成了什么。
+
 ## ♠Point
 
 1）two dominant frameworks used to interpret Chinese organizations in the 1980s and 1990s: **① civil society ② corporatism**.
@@ -54,8 +59,3 @@ Ma does not deny that Chinese NGOs remain closely connected to the state. Rather
 
 whether they mobilize citizen participation; whether they **promote the articulation of multiple interests**; whether they **provide services distinct from those of government agencies**; whether they **cultivate democratic procedures internally**; whether they **create new social spaces outside the state bureaucracy**.
 
-
-## ♦My Reflection
-
-文章的核心就是：organizational autonomy should not be treated as the sole, or even the most important, criterion for defining Chinese NGOs.  
-共享了一个我非常认可的立场：不要先问某个中国组织“是不是不够像西方所说的现代主体”，而要先问：它是在怎样的历史关系中被生产出来的，又在其中做成了什么。
