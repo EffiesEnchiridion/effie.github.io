@@ -5,3 +5,4 @@
 - [[Article] Kimberley Ens Manning, The Gendered Politics of Woman-Work: Rethinking Radicalism in the Great Leap Forward](./manning-woman-work.md)
 - [[Article] Wang Zheng, “State Feminism”? Gender and Socialist State Formation in Maoist China](./wang-state-feminism.md)
 - [[Article] Qiusha Ma, Defining Chinese Nongovernmental Organizations](./ma-defining-chinese-nongovernmental-organizations.md)
+- [[Article] Kin-man Chan, Intermediate Organizations and Civil Society: The Case of Guangzhou](./chan-intermediate-organizations-and-civil-society.md)
