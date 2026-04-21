@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Kimberley Ens Manning"
+permalink: /notes/manning-party-family/
+---
 # Kimberley Ens Manning, The Party Family: Revolutionary Attachments and the Gendered Origins of State Power in China (Ithaca, NY: Cornell University Press, 2023)
 
 ## ♠Point
