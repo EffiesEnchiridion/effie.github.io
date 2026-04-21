@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Zheng Wang"
+permalink: /notes/wang-state-feminism/
+---
 # Zheng Wang, ‘“State Feminism”? Gender and Socialist State Formation in Maoist China’, Feminist Studies 31(3) (2005), pp. 519–551.
 
 ## ♠Point
