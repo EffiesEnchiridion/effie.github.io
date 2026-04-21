@@ -10,10 +10,10 @@
       --panel: #f8f2e3;
       --panel-2: #efe6d2;
       --ink: #2f2a22;
-      --muted: #6e6558;
+      --muted: #6a6257;
       --line: #8a7f6c;
       --accent: #596b5d;
-      --accent-2: #8a5a52;
+      --accent-2: #7a4e47;
       --glow: rgba(89, 107, 93, 0.10);
     }
 
@@ -26,15 +26,14 @@
       padding: 0;
       background: var(--bg);
       color: var(--ink);
-      font-family: "Courier New", Courier, monospace;
-      line-height: 1.7;
+      line-height: 1.75;
     }
 
     body {
       min-height: 100vh;
       padding: 32px 16px 48px;
       background-image:
-        linear-gradient(rgba(255,255,255,0.15), rgba(255,255,255,0.15)),
+        linear-gradient(rgba(255,255,255,0.14), rgba(255,255,255,0.14)),
         repeating-linear-gradient(
           to bottom,
           rgba(0,0,0,0.015) 0px,
@@ -42,6 +41,8 @@
           transparent 1px,
           transparent 4px
         );
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue",
+                   Arial, "Noto Sans", sans-serif;
     }
 
     .wrap {
@@ -68,12 +69,15 @@
       border-bottom: 1px solid var(--line);
       font-size: 13px;
       color: var(--muted);
+      font-family: "SFMono-Regular", Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+      letter-spacing: 0.2px;
     }
 
     .lights {
       display: flex;
       gap: 8px;
       align-items: center;
+      flex-shrink: 0;
     }
 
     .light {
@@ -88,18 +92,20 @@
     .light.three { background: #7f9a84; }
 
     .screen {
-      padding: 28px 22px 30px;
+      padding: 30px 24px 32px;
     }
 
     .line {
       margin-bottom: 10px;
       white-space: pre-wrap;
       word-break: break-word;
+      font-family: "SFMono-Regular", Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+      font-size: 14px;
+      color: var(--accent);
     }
 
     .prompt {
-      color: var(--accent);
-      font-weight: bold;
+      font-weight: 600;
     }
 
     .cursor {
@@ -117,23 +123,24 @@
     }
 
     h1 {
-      margin: 18px 0 8px;
-      font-size: clamp(28px, 5vw, 42px);
-      line-height: 1.2;
-      letter-spacing: 0.5px;
+      margin: 16px 0 10px;
+      font-size: clamp(34px, 5vw, 46px);
+      line-height: 1.18;
+      letter-spacing: 0.2px;
       color: var(--accent-2);
-      font-weight: normal;
+      font-weight: 600;
+      font-family: Georgia, "Times New Roman", "Palatino Linotype", serif;
     }
 
     .desc {
       max-width: 760px;
       color: var(--muted);
-      margin-bottom: 22px;
-      font-size: 15px;
+      margin-bottom: 24px;
+      font-size: 17px;
     }
 
     .section {
-      margin-top: 24px;
+      margin-top: 26px;
       padding-top: 20px;
       border-top: 1px dashed var(--line);
     }
@@ -141,15 +148,16 @@
     .section-title {
       color: var(--accent);
       margin-bottom: 12px;
-      font-size: 15px;
+      font-size: 13px;
       text-transform: uppercase;
-      letter-spacing: 1px;
+      letter-spacing: 1.4px;
+      font-family: "SFMono-Regular", Menlo, Monaco, Consolas, "Liberation Mono", monospace;
     }
 
     .mono-box {
       background: rgba(255,255,255,0.35);
       border: 1px solid rgba(138,127,108,0.65);
-      padding: 14px 16px;
+      padding: 15px 16px;
       margin-top: 10px;
     }
 
@@ -162,10 +170,13 @@
 
     .identity-label {
       color: var(--muted);
+      font-family: "SFMono-Regular", Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+      font-size: 14px;
     }
 
     .identity-value {
       color: var(--ink);
+      font-size: 16px;
     }
 
     .tags {
@@ -197,7 +208,7 @@
       color: var(--ink);
       border: 1px solid var(--line);
       background: linear-gradient(to right, rgba(89,107,93,0.06), rgba(89,107,93,0.00));
-      padding: 12px 14px;
+      padding: 13px 14px;
       transition: background 0.2s ease, transform 0.15s ease, box-shadow 0.2s ease;
       box-shadow: 0 0 0 1px rgba(255,255,255,0.35) inset;
     }
@@ -211,11 +222,13 @@
     .menu .label {
       color: var(--accent);
       margin-right: 10px;
+      font-family: "SFMono-Regular", Menlo, Monaco, Consolas, "Liberation Mono", monospace;
     }
 
     .small {
       font-size: 14px;
       color: var(--muted);
+      margin-top: 4px;
     }
 
     .footer {
@@ -239,6 +252,14 @@
         font-size: 12px;
         padding: 9px 12px;
       }
+
+      h1 {
+        font-size: 32px;
+      }
+
+      .desc {
+        font-size: 16px;
+      }
     }
   </style>
 </head>
@@ -251,18 +272,18 @@
           <span class="light two"></span>
           <span class="light three"></span>
         </div>
-        <div>archive-terminal / effies-enchiridion / session active</div>
+        <div>personal archive / effies-enchiridion / ongoing</div>
       </div>
 
       <div class="screen">
-        <div class="line"><span class="prompt">visitor@archive:~$</span> open enchiridion</div>
+        <div class="line"><span class="prompt">visitor@archive:~$</span> open enchiridion<span class="cursor"></span></div>
+
         <h1>Effie's Enchiridion</h1>
+
         <div class="desc">
           A personal archive of bibliographic records and reading notes,
           with a focus on modern Chinese history, especially the Mao era.
         </div>
-
-        <div class="line"><span class="prompt">visitor@archive:~$</span> read profile<span class="cursor"></span></div>
 
         <div class="section">
           <div class="section-title">Profile</div>
@@ -298,7 +319,7 @@
           <div class="menu">
             <a href="./notes/">
               <span class="label">[01]</span> Bibliography
-              <div class="small">Reading notes, references, and archival traces</div>
+              <div class="small">This archive is still being updated and expanded over time.</div>
             </a>
           </div>
         </div>
@@ -308,12 +329,10 @@
           <div class="menu">
             <a href="https://researchmap.jp/xuyifei" target="_blank" rel="noopener noreferrer">
               <span class="label">[A]</span> Researchmap
-              <div class="small">Academic profile and research information</div>
             </a>
 
             <a href="https://jglobal.jst.go.jp/en/detail?JGLOBAL_ID=202601015025298516" target="_blank" rel="noopener noreferrer">
               <span class="label">[B]</span> J-GLOBAL
-              <div class="small">Researcher database entry</div>
             </a>
           </div>
         </div>
@@ -321,8 +340,8 @@
         <div class="section">
           <div class="section-title">System Note</div>
           <div class="mono-box small">
-            This site is conceived as a personal reading terminal:
-            part bibliography, part notebook, part archive.
+            I am still learning how to design and build this website, and I will keep refining it over time.
+            I hope it can gradually become a place through which more people may enter and understand my research world.
           </div>
         </div>
       </div>
