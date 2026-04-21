@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Yunyan Li"
+permalink: /notes/li-gender-justice-between-confucianism-socialism-and-equality-in-modern-china/
+---
 # Yunyan Li, ‘Gender Justice between Confucianism, Socialism and Equality in Modern China: Challenges and Opportunities for National and Local Stakeholders’, in Stephan Köppe, Andrea Parma and Bożena Sojka (eds.), *Social Policy Review 37* (Bristol: Policy Press, 2025), pp. 85–103.
 ## ♦My Reflection
 
